@@ -7,7 +7,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main() 
 {
         float w, h, bmi, x, BMI, p, i;
         cout << "\n\t************Welcome to the BMI calculator************\n\n";

@@ -1,4 +1,4 @@
-ay using while loop;
+  // array using while loop;
         // while (i<5)
         // {
         //       cout<<"arr"<<i<<"="<<arr[i]<<endl;
