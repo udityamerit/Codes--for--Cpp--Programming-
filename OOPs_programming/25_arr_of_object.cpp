@@ -51,7 +51,7 @@ int main(){
         c1.printnumber();
         c2.setData(3,4);
         c2.printnumber();
-        c3.setData(1,7);
+        c3.setDataBySum(c1,c2);
         c3.printnumber(); 
         return 0;
 }
