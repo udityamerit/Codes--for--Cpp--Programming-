@@ -1,0 +1,5 @@
+Name of the vehicle is: Sigma 
+Model of the vehicle is: etc23412el 
+Name of the vehicle company is: TATA 
+color of the vehicle is: white 
+Price of the vehicle is: 500
